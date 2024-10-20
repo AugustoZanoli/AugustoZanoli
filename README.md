@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Augusto Zanoli
+<p id="nome"></p>
 
 - 👩🏾‍🎓 Hoje estou cursando Sistemas de Informação
 - 👩🏾‍💻 Estudando Flutter, Dart e Python
@@ -25,3 +25,7 @@
   <a href="https://www.instagram.com/zanoli08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:zancamar9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+<script>
+  document.getElementById("nome").innerText = "Olá!! Eu sou o Augusto Zanoli";
+</script>
