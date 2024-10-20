@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Augusto Zanoli
 
 - 👩🏾‍🎓 Hoje estou cursando Sistemas de Informação
-- 👩🏾‍💻 Estudando Flutter, Dart e Python
+- 👩🏾‍💻 Estudando Flutter, Dart e Web
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/AugustoZanoli">
