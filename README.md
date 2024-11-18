@@ -1,7 +1,8 @@
 ## Olá!! Eu sou o Augusto Zanoli
 
 - 👩🏾‍🎓 Hoje estou cursando Sistemas de Informação
-- 👩🏾‍💻 Estudando Flutter, Dart e Web
+- 👩🏾‍💻 Estudando Angular e Typescript
+- 👉 Em busca do primeiro estágio
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/AugustoZanoli">
