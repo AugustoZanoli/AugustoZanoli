@@ -2,7 +2,7 @@
 
 👨🏾‍🎓 Currently studying Information Systems
 
-👨🏾‍💻 Learning Angular and TypeScript
+👨🏾‍💻 Learning Kotlin and Python for Flutter backend
 
 👉 PHP Dev at Support Informática LTDA
 
