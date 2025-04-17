@@ -1,4 +1,5 @@
 🏠 Hello!! I'm Augusto Zanoli
+
 👨🏾‍🎓 Currently studying Information Systems
 
 👨🏾‍💻 Learning Angular and TypeScript
