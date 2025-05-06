@@ -9,10 +9,7 @@
 📈 GitHub Analytics
 <div style="display: flex; justify-content: center;"> 
   <a href="https://github.com/AugustoZanoli"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoZanoli&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/> 
-  </a> 
-  <a href="https://github.com/AugustoZanoli"> 
-    <img height="180em" src="profile-night-green.svg"/> 
+    <img src="https://github.com/AugustoZanoli/AugustoZanoli/blob/main/profile-3d-contrib/profile-night-view.svg"/> 
   </a> 
 </div> 
 <div style="display: inline_block">
