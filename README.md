@@ -1,5 +1,11 @@
 
+## 👋 Olá! Eu sou o Augusto Zanoli
 
+Sou um desenvolvedor full-stack apaixonado por tecnologia, inovação e mobilidade digital. Tenho experiência com Flutter, JavaScript, bancos de dados, e estou sempre buscando novos desafios, especialmente no desenvolvimento de soluções com foco em usabilidade, performance e integração com hardware.
+
+🚀 Atualmente estou trabalhando em projetos com Flutter, PHP e Next.js.
+
+---
 
   ![Status](./profile-3d-contrib/profile-night-green.svg)
   
@@ -12,7 +18,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,flutter,javascript,typescript,css,html,react,next,tailwind,vue,docker,figma,github,materialui,linux,postman,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,flutter,javascript,typescript,css,html,react,next,tailwind,vue,figma,github,materialui,linux,postman,vite,mongodb,postgres,discord,linkedin,instagram" />
 </a>
   <br />
 
