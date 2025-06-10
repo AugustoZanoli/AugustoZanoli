@@ -18,7 +18,7 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia, inovação e mobilida
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,flutter,javascript,typescript,css,html,react,next,tailwind,vue,figma,github,materialui,linux,postman,vite,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,flutter,javascript,css,html,react,next,vue,github,materialui,linux,postman,postgres" />
 </a>
   <br />
 
