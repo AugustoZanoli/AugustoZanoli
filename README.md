@@ -20,7 +20,7 @@ Sou um desenvolvedor full stack apaixonado por tecnologia e pelo universo da pro
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,java, angular, springboot, flutter,react,next,vue,typescript,github,materialui,linux,postman,postgres, mongodb, mysql" />
+  <img src="https://skillicons.dev/icons?i=git,java, angular, springboot, flutter,react,next,vue,typescript,github,materialui,linux,postman,postgres, mongodb" />
 </a>
   <br />
 
