@@ -1,9 +1,11 @@
 
 ## 👋 Olá! Eu sou o Augusto Zanoli
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia, inovação e mobilidade digital. Tenho experiência com Flutter, PHP, bancos de dados, e estou sempre buscando novos desafios, especialmente no desenvolvimento de soluções com foco em usabilidade, performance e integração com hardware.
+Sou um desenvolvedor full stack apaixonado por tecnologia e pelo universo da programação. Tenho como objetivo evoluir constantemente, aprendendo novas ferramentas e aprimorando minhas habilidades para criar soluções cada vez mais eficientes e inovadoras.
 
-🚀 Atualmente estou atuando como desenvolvedor full-stack, utilizando tecnologias como Java, SpringBoot e Angular.
+💡 Tenho experiência com bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB), frameworks como Spring Boot, Angular e Flutter, além de conhecimentos sólidos em POO, arquitetura limpa, programação genérica, testes unitários e boas práticas de desenvolvimento de software.
+
+🚀 Atualmente, atuo como desenvolvedor full stack, utilizando Java, Spring Boot e Angular no dia a dia.
 
 ---
 
@@ -18,7 +20,7 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia, inovação e mobilida
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,flutter,javascript,css,html,react,next,vue,github,materialui,linux,postman,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,java, angular, springboot, flutter,react,next,vue,typescript,github,materialui,linux,postman,postgres, mongodb, mysql" />
 </a>
   <br />
 
