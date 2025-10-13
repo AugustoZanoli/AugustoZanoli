@@ -1,11 +1,16 @@
 
-## 👋 Olá! Eu sou o Augusto Zanoli
+## 💻 About Me
 
-Sou um desenvolvedor full stack apaixonado por tecnologia e pelo universo da programação. Tenho como objetivo evoluir constantemente, aprendendo novas ferramentas e aprimorando minhas habilidades para criar soluções cada vez mais eficientes e inovadoras.
+Hi! I’m Augusto de Camargos Zanoli, a Computer Information Systems student at UNIFEI (Brazil) passionate about software development and technology that connects people.
 
-💡 Tenho experiência com bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB), frameworks como Spring Boot, Angular e Flutter, além de conhecimentos sólidos em POO, arquitetura limpa, programação genérica, testes unitários e boas práticas de desenvolvimento de software.
+I currently serve as Vice President of the Computer Science Student Directory and have experience working in a Junior Enterprise (JE), which gave me practical exposure to real-world projects and teamwork.
 
-🚀 Atualmente, atuo como desenvolvedor full stack, utilizando Java, Spring Boot e Angular no dia a dia.
+I work mainly with Java (Spring Boot) and Angular, building full-stack applications focused on clean architecture and real impact.
+I’ve also earned medals in OBI and OBR, reflecting my strong background in logic and problem-solving.
+
+I’m currently improving my English and exploring international opportunities such as MEXT and AIESEC programs in Japan — combining cultural exchange with professional growth.
+
+Always learning, building, and aiming to write code that makes sense — not just that works. 🚀
 
 ---
 
