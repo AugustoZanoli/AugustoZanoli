@@ -1,16 +1,15 @@
 
 ## 💻 About Me
 
-Hi! I’m Augusto de Camargos Zanoli, a Computer Information Systems student at UNIFEI (Brazil) passionate about software development and technology that connects people.
+Hi, I’m Augusto de Camargos Zanoli, a Computer Information Systems student at UNIFEI (Brazil) passionate about building software that creates real impact and connects people.
 
-I currently serve as Vice President of the Computer Science Student Directory and have experience working in a Junior Enterprise (JE), which gave me practical exposure to real-world projects and teamwork.
+I currently serve as Vice President of the Computer Science Student Directory and have hands-on experience in a Junior Enterprise, where I worked on real-world projects and developed strong teamwork and leadership skills.
 
-I work mainly with Java (Spring Boot) and Angular, building full-stack applications focused on clean architecture and real impact.
-I’ve also earned medals in OBI and OBR, reflecting my strong background in logic and problem-solving.
+My main stack is Java (Spring Boot) and Angular, focusing on full-stack applications built with clean architecture, scalability, and long-term maintainability in mind. I care about writing code that makes sense, not just code that works.
 
-I’m currently improving my English and exploring international opportunities such as MEXT and AIESEC programs in Japan — combining cultural exchange with professional growth.
+I’ve also earned medals in OBI and OBR, which strengthened my foundation in logic, algorithms, and problem-solving from an early stage.
 
-Always learning, building, and aiming to write code that makes sense — not just that works. 🚀
+Always learning. Always building. 🚀
 
 ---
 
