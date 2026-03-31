@@ -27,10 +27,3 @@ Always learning. Always building. 🚀
       <img src="https://skillicons.dev/icons?i=git,github,bitbucket,java,dart,php,typescript,angular,flutter,react,next,postgres,mongodb,supabase,firebase,postman,docker,spring,linux" />
     </a>
   </p>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=AugustoZanoli&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
