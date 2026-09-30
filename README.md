@@ -9,7 +9,7 @@ My main stack is Java (Spring Boot) and Angular, focusing on full-stack applicat
 
 I’ve also earned medals in OBI and OBR, which strengthened my foundation in logic, algorithms, and problem-solving from an early stage.
 
-Always learning. Always building. 🚀
+Always learning.
 
 ---
 
