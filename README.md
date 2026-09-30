@@ -21,9 +21,30 @@ Always learning.
  | ----------- | ----------- |
 
 
- 
-  <p align="center" >
+### Backend
+<p>
+  <a href="https://skillicons.dev" align="center" >
+    <img src="https://skillicons.dev/icons?i=java,spring,dart,php,python,typescript" />
+  </a>
+</p>
+
+### Frontend
+<p>
+  <a href="https://skillicons.dev" align="center" >
+    <img src="https://skillicons.dev/icons?i=angular,flutter,react,next" />
+  </a>
+</p>
+
+### Databases
+<p>
+  <a href="https://skillicons.dev" align="center" >
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase" />
+  </a>
+</p>
+
+### Tools
+  <p>
     <a href="https://skillicons.dev" align="center" >
-      <img src="https://skillicons.dev/icons?i=git,github,bitbucket,java,dart,php,typescript,angular,flutter,react,next,postgres,mongodb,supabase,firebase,postman,docker,spring,linux" />
+      <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,docker,linux" />
     </a>
   </p>
